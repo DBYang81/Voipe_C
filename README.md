@@ -1,2 +1,2 @@
 # Voipe_C
-:holes C language exercise
+:Computer: C language exercise
