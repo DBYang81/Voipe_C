@@ -1,2 +1,2 @@
 # Voipe_C
-:Computer: C language exercise
+💻 C language exercise
