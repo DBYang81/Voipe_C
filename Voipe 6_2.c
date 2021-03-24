@@ -1,4 +1,4 @@
-Write a program that prompts the user for an integer n (n>0) and prints the factorial of the number on the screen. For example, the factorial of n is designated n!, which means the number calculated as follows: 1*2*3...*n
+//Write a program that prompts the user for an integer n (n>0) and prints the factorial of the number on the screen. For example, the factorial of n is designated n!, which means the number calculated as follows: 1*2*3...*n
 
 #include <stdio.h>
 int main (void){
@@ -13,6 +13,7 @@ int main (void){
 	printf("The factorial of %d is %d", num, fact);	
 }
 
-#output
+/*#output
 Enter an integer: 3
 The factorial of 3 is 6
+*/
