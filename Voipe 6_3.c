@@ -1,4 +1,4 @@
-Write a program that asks for the students'exam scores (using integers 4 to 10) and calculates the average. The program must accept scores until entry is terminated by a negative integer. Finally, the program prints out the number of scores and the calculated average with two decimal places of precision.
+//Write a program that asks for the students'exam scores (using integers 4 to 10) and calculates the average. The program must accept scores until entry is terminated by a negative integer. Finally, the program prints out the number of scores and the calculated average with two decimal places of precision.
   
 #include <stdio.h>
 int main (void){
@@ -23,7 +23,7 @@ int main (void){
 	return 0;
 }
 
-#output
+/*#output
 The program calculates the average of scores you enter.
 End with a negative integer.
 Enter score (4-10):7
@@ -36,3 +36,4 @@ Enter score (4-10):5
 Enter score (4-10):-1
 You entered 7 scores.
 Average score: 6.71
+*/
